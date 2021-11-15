@@ -1,19 +1,13 @@
 # itchaomall
 
-## Project setup
-```
-npm install
-```
+* 以前看coderwhy老师Vue2视频内容看了很多次，也学了很多知识
+* 只是以前一直没有做后面的实战项目
+* 当时觉得实战项目太难了，Vue只是就行了
+* 结果自己当时学了很多知识，但是敲代码太少了，导致自己进入公司上班后，开发效率太低了
+* 这次我决定好好的跟着coderwhy老师把后面的实战项目做了
+* 巩固自己的Vue2知识，培养良好的编程习惯
+* 加油！努力！
+* 我一定会成为非常优秀的前端大佬！早日成为全栈大佬！
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* itchao
+* 2021年11月16日00:55:52
